@@ -28,7 +28,7 @@ const Header = () => {
                     {/* <Signup/> */}
                     
                     <NavLink className="nav-link" aria-current="page" to="/user">
-                        <span className='accountBtn'><i class="fa-solid fa-user"></i> Account</span>
+                        <span className='accountBtn'><i className="fa-solid fa-user"></i> Account</span>
                     </NavLink>
                      
                     <CartBtn/>
